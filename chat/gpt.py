@@ -3,7 +3,7 @@ from PIL import ImageTk, Image
 import openai
 
 #  API 
-openai.api_key = "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"
+openai.api_key = " YOUR KEY"
 
 # إنشاء نافذة الواجهة الرسومية
 window = tk.Tk()
